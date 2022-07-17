@@ -1,5 +1,3 @@
-## Due Jul 14, 2022, 23:59
-
 # BANKING SYSTEM
 Arkadaşlar merhaba, bu ödevimizde Spring Boot webservices(REST), Dosya İşlemleri ve Apache Kafka kullanarak basit bir bankacılık uygulaması geliştireceğiz.
 
@@ -226,10 +224,3 @@ Veya bunu dönerken
 * Kafka'da logs adında bir topic yaratmanızı ve logları buraya göndermenizi bekliyorum. Burada Kafka-spring entegrasyonu beklemiyorum düz java koduyla yapmanızı bekliyorum arkadaşlar. Dökumanda anlattıgım şekilde.
 * Producer log messajını uygun bir şekilde kafkaya gönderecek ve bir adet consumer logları alıp dosyaya yazma işlemini gerçekleştirecektir arkadaşlar.
 * Arkadaşlar adım adım çalışın, mesela once servisler yazılıp, sonra kafkaya bakılabilir. Daha sonra cors'a ve sondada account detayı getiren serviste LAST modified headerinin setlenmesine bakabilirsiniz.
-
-
-
-
-
-
-
